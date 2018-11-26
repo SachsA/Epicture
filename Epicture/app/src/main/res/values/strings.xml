@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Application Name -->
+    <string name="app_name">EpictureV2</string>
+
+    <!-- Menu Navigation Item Title -->
+    <string name="title_explore">Explore</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Menu Search Item Title -->
+    <string name="title_search">Search</string>
+
+    <!-- Menu Logout Item Title -->
+    <string name="title_logout">Logout</string>
+
+    <!-- Activity Title -->
+    <string name="title_activity_explore">Explore</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_camera_kit">Camera</string>
+    <string name="title_activity_album_content">Album Content</string>
+    <string name="title_activity_image_picker">Image Picker</string>
+
+
+    <!-- Project Informations -->
+    <string name="project_version">Epicture - Android Project v1.0.0</string>
+    <string name="project_authors">Realized by Thomas BLENEAU and Alexandre SACHS</string>
+    <string name="project_login">Login with Imgur</string>
+
+    <!-- Action String -->
+    <string name="action_cancel">Cancel</string>
+
+    <!-- CameraActivity String -->
+    <string name="upload_information">Here, you can either upload a picture from your library or take one with your phone\'s camera and upload it.</string>
+    <string name="upload_take_picture">Take a photo and upload it</string>
+    <string name="upload_import_picture">Import a photo and upload it</string>
+
+</resources>

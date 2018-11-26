@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application Color Primary -->
+    <color name="colorPrimary">#177d9b</color>
+    <color name="colorPrimaryDark">#177d9b</color>
+    <color name="colorAccent">#d2185c</color>
+    <color name="colorAccentDark">#bb1754</color>
+
+    <!-- Application Color Gray -->
+    <color name="colorGrayLight">#F1F1F1</color>
+    <color name="colorGrayDark">#666666</color>
+
+    <!-- Application Color Transparent-->
+    <color name="colorTransparent">#00FFFFFF</color>
+
+    <!-- Application Color White-->
+    <color name="colorWhite">#FFFFFF</color>
+
+    <!-- Application Color Blue-->
+    <color name="colorBlueLight">#eef7fa</color>
+
+    <!-- Application Color Black-->
+    <color name="colorBlack">#000000</color>
+</resources>

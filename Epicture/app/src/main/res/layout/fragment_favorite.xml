@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".items.fragments.profile.FavoriteFragment">
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/grid_view_favorite"
+        android:numColumns="auto_fit"
+        android:columnWidth="180dp"
+        android:horizontalSpacing="5dp"
+        android:verticalSpacing="12dp"
+        android:padding="5dp"
+        android:stretchMode="columnWidth"
+        />
+
+</FrameLayout>
