@@ -34,5 +34,5 @@ Your software must be in Android 26 minimum.
       * Albums : see all your albums, and select the one you want, it will display all the pictures of this album.
 
 #### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Alexandre Sachs : [alexandre.sachs@outlook.fr](https://github.com/SachsA)**
 - **Thomas Bleneau : [thomas.bleneau@epitech.eu](https://github.com/TBlenoX)**
